@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BinaryHeap/.vs/BinaryHeap/DesignTimeBuild
+/BinaryHeap/.vs/BinaryHeap/v16
+/BinaryHeap/BinaryHeap/obj
