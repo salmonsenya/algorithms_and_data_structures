@@ -6,7 +6,11 @@ namespace BinaryHeap
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            const int n = 100;
+            var heap = new Heap();
+            heap.heap = heap.InitHeap(n);
+
+
         }
     }
 }
